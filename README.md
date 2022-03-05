@@ -39,12 +39,12 @@
 
 ## 🛠️ 서비스 아키텍쳐
 
+![아키텍처.png](documentation/아키텍처.png)
 - Vue3 (Web Server)
 - MySQL (DB)
 - Springboot (API Server)
 - Kurento (Docker)
 - Jenkins
-![아키텍처.png](documentation/아키텍처.png)
 
 ## ****⭐️**** 주요 기능
 
