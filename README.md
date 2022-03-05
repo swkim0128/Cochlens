@@ -104,8 +104,8 @@ $ docker-compose up -d --build
 
 - 중간발표
     
-    [Cochlens 중간발표.pdf]()
+    [Cochlens 중간발표.pdf](/documentation/Cochlens 중간발표.pdf)
     
 - 최종발표
     
-    [Cochlens 최종발표.pdf]()
+    [Cochlens 최종발표.pdf](/documentation/Cochlens 최종발표.pdf)
