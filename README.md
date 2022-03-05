@@ -108,4 +108,4 @@ $ docker-compose up -d --build
     
 - 최종발표
     
-    [Cochlens 최종발표.pdf](documentation/Cochlens_최종발표.pdf)
+    [Cochlens 최종발표.pdf](documentation/Cochlens_최종발표.pdf)
