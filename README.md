@@ -44,7 +44,7 @@
 - Springboot (API Server)
 - Kurento (Docker)
 - Jenkins
-![아키텍처.png]()
+![아키텍처.png](documentation/아키텍처.png)
 
 ## ****⭐️**** 주요 기능
 
