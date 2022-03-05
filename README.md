@@ -69,3 +69,43 @@
 - 청각 장애인이 말을 할 수가 없고, 채팅 기능을 통한 대화가 힘들 때, 간단하게 모션인식으로 통하여 원하는 말을 사람들에게 전달해주는 기능입니다.
 - 기능 구현은 완료하였지만 강사의 입모양 클로즈업(face-api) 기능과의 충돌로 최종 프로젝트에서는 임의로 막아놓은 상태입니다.
 
+## ****😋**** Installation
+
+### [Frontend]
+
+```bash
+cd frontend
+npm i
+npm run serve
+```
+
+### [Backend]
+
+```bash
+# java build
+$ gradlew clean build 
+# docker-compose
+$ docker-compose up -d --build
+```
+
+## ****⚙**** 개발 환경 및 IDE
+
+- Java (1.8.0_312-1)
+- MySQL (5.7.35)
+- Intellij IDEA (2021.3.2)
+- VSCode (1.59)
+- Docker (Desktop 4.3.2)
+- node.js (17.3.0)
+- Vue3 (3.2.26)
+- kurento (6.16.0)
+- gradle (v7.3.3)
+
+## ****🎞**** 최종산출물
+
+- 중간발표
+    
+    [Cochlens 중간발표.pdf]()
+    
+- 최종발표
+    
+    [Cochlens 최종발표.pdf]()
