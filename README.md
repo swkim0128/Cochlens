@@ -48,23 +48,23 @@
 
 ## ****⭐️**** 주요 기능
 
-### 라이브 취미 클래스 (WebRTC)
+### 라이브 취미 클래스 [(WebRTC/Kurento)](https://www.kurento.org/)
 
 - 강사는 취미 클래스를 개설하고 강좌를 등록할 수 있습니다.
 - 사용자는 원하는 취미 클래스를 등록하고 라이브 클래스를 수강할 수 있습니다.
 
-### 실시간 라이브 자막 (STT)
+### 실시간 라이브 자막 [(STT/Azure)](https://azure.microsoft.com/ko-kr/)
 
 - Microsoft Azure의 STT API를 사용합니다.
 - 강사가 말하는 음성을 인식하여 텍스트로 변환한 뒤 수업을 듣는 학생들에게 자막을 보여주게 하는 기능입니다.
 
-### 강사의 입모양 클로즈업 (face-api)
+### 강사의 입모양 클로즈업 [(face-api)](https://justadudewhohacks.github.io/face-api.js/docs/index.html)
 
 - 청각 장애인의 구어 인식을 편하게 하기위한 기능입니다.
 - 강사의 얼굴을 인식 후 확대하여 강사 강의 화면 오른쪽 상단에 보여줍니다.
 - 사용자는 확대된 강사의 얼굴을 보고 구어를 조금 더 쉽게 인식할 수 있습니다.
 
-### 모션 커멘드 (Teachble Machine)
+### 모션 커멘드 [(Teachble Machine)](https://teachablemachine.withgoogle.com/)
 
 - 사용자가 특정 말을 하고 싶을 때 모션인식을 통하여 클래스 강의를 듣는 사람들에게 전달하는 기능입니다.
 - 청각 장애인이 말을 할 수가 없고, 채팅 기능을 통한 대화가 힘들 때, 간단하게 모션인식으로 통하여 원하는 말을 사람들에게 전달해주는 기능입니다.
